@@ -1,4 +1,4 @@
-# Simon_Game
+# Simon Game
 
 ## Summmary
 Interactive Simon Game written in Javascript ES6/jQuery to simulate the classic Simon Electronic Memory Game.
